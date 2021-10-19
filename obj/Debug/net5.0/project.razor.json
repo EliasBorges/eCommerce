@@ -15619,8 +15619,33 @@
   "RootNamespace": "eCommerce",
   "Documents": [
     {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritiva\\Index.cshtml",
+      "TargetPath": "Views\\TabelaDescritiva\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repo\\eCommerce\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Create.cshtml",
+      "TargetPath": "Views\\TabelaDescritivaConteudo\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\ClientePessoaJuridica.cshtml",
+      "TargetPath": "Views\\Cliente\\ClientePessoaJuridica.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\Edit.cshtml",
+      "TargetPath": "Views\\Cliente\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\Delete.cshtml",
+      "TargetPath": "Views\\Cliente\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15654,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Details.cshtml",
+      "TargetPath": "Views\\TabelaDescritivaConteudo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\Create.cshtml",
+      "TargetPath": "Views\\Cliente\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repo\\eCommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritiva\\Delete.cshtml",
+      "TargetPath": "Views\\TabelaDescritiva\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\Index.cshtml",
+      "TargetPath": "Views\\Cliente\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Edit.cshtml",
+      "TargetPath": "Views\\TabelaDescritivaConteudo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritiva\\Edit.cshtml",
+      "TargetPath": "Views\\TabelaDescritiva\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\Details.cshtml",
+      "TargetPath": "Views\\Cliente\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,6 +15704,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Index.cshtml",
+      "TargetPath": "Views\\TabelaDescritivaConteudo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritiva\\Details.cshtml",
+      "TargetPath": "Views\\TabelaDescritiva\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Delete.cshtml",
+      "TargetPath": "Views\\TabelaDescritivaConteudo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repo\\eCommerce\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15726,16 @@
     {
       "FilePath": "c:\\repo\\eCommerce\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\ClientePessoaFisica.cshtml",
+      "TargetPath": "Views\\Cliente\\ClientePessoaFisica.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritiva\\Create.cshtml",
+      "TargetPath": "Views\\TabelaDescritiva\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
