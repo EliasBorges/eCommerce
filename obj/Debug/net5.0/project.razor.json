@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Autenticacao\\Acessar.cshtml",
+      "TargetPath": "Views\\Autenticacao\\Acessar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repo\\eCommerce\\Views\\Cliente\\ClientePessoaJuridica.cshtml",
       "TargetPath": "Views\\Cliente\\ClientePessoaJuridica.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15661,11 @@
     {
       "FilePath": "c:\\repo\\eCommerce\\Views\\TabelaDescritivaConteudo\\Details.cshtml",
       "TargetPath": "Views\\TabelaDescritivaConteudo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\repo\\eCommerce\\Views\\Autenticacao\\RegistrarNovoUsuario.cshtml",
+      "TargetPath": "Views\\Autenticacao\\RegistrarNovoUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
